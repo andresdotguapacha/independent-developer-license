@@ -1,0 +1,111 @@
+END USER LICENSE AGREEMENT (EULA)
+
+This End-User License Agreement ("Agreement") is a legal agreement between Jefferson Andres Guapacha Castaño ("Licensor") and the user ("Licensee"). By installing, copying, or using the software ("Software"), the Licensee agrees to the terms of this Agreement.
+
+1. Grant of License
+   Licensor grants Licensee a non-exclusive, non-transferable license to use the Software on a single device or within a specific environment as defined in the documentation. This license is granted only for personal or internal business purposes, unless otherwise specified.
+
+2. Ownership
+   The Software is owned by Jefferson Andres Guapacha Castaño and is protected by copyright law. You do not own the Software; you have only a license to use it according to the terms of this Agreement.
+
+3. License Restrictions
+   You may not redistribute, rent, lease, or sublicense the Software.
+   You may not reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Software.
+   You may not modify, adapt, or create derivative works of the Software.
+   You may use the Software only on the number of devices specified in the documentation or agreed upon.
+
+4. Updates and Support
+   The Licensor is under no obligation to provide updates, maintenance, or support for the Software, but may do so at their discretion.
+   Updates or new versions of the Software will be governed by the terms of this Agreement unless a separate agreement is made.
+
+5. Termination
+   This Agreement will terminate automatically without notice if you fail to comply with any terms of this Agreement. Upon termination, you must immediately stop using the Software and destroy all copies.
+
+6. Limitation of Liability
+   The Software is provided "as-is" without warranty of any kind. The Licensor does not guarantee the Software's performance, compatibility, or fitness for any particular purpose.
+   The Licensor shall not be liable for any damages arising from the use or inability to use the Software, even if advised of the possibility of such damages.
+
+7. Privacy
+   The Software may collect certain personal data or usage information as described in the Privacy Policy. By using the Software, you consent to the collection and use of this information.
+
+8. Governing Law
+   This Agreement is governed by the laws of Colombia or Antioquia. Any disputes will be resolved through binding arbitration in Medellín.
+
+9. Miscellaneous
+   This Agreement constitutes the entire understanding between the parties regarding the Software.
+   If any provision of this Agreement is found to be unenforceable, the remaining provisions will continue in effect.
+   The Licensee may not transfer the license to anyone else without written consent from the Licensor.
+
+Additional Clauses for Independent Developer EULA
+
+10. Modifications and Customizations
+    You are not permitted to modify, adapt, or create derivative works of the Software without explicit permission from the Licensor.
+    If you make changes to the Software, such changes will remain the property of the Licensor unless otherwise agreed.
+    Any modifications made to the Software by the Licensee are done at their own risk and without liability for the Licensor.
+
+11. User Contributions
+    If you allow users to contribute to the development of the Software (e.g., through open-source contributions or feedback), you may include a clause stating that all contributions made to the Software become the exclusive property of the Licensor.
+    By submitting any contributions, you grant the Licensor a perpetual, royalty-free, and worldwide license to use, modify, and incorporate those contributions into the Software.
+    Example:
+
+"Any code, feedback, or contributions submitted by the Licensee to the Licensor shall become the sole property of the Licensor, and the Licensee waives any rights or claims to those contributions."
+
+12. Attribution and Branding
+    If your Software is used publicly (e.g., in apps, websites, or other projects), you may require the Licensee to provide attribution to you as the developer.
+    This can include displaying your name or a reference to your company or project.
+    Example:
+
+"If the Software is used in a public project, the Licensee agrees to provide appropriate credit to the Licensor, including a visible acknowledgment of the Licensor's contribution in the form of "e-commerce-module" and the Licensor’s website."
+
+13. Third-Party Software and Libraries
+    If your Software uses or incorporates third-party software or libraries, you can outline these dependencies and clarify any obligations regarding them.
+    You might also want to provide a disclaimer for the use of third-party software.
+    Example:
+
+"The Software may contain or use third-party software or libraries. The Licensee agrees to comply with the terms of any applicable third-party licenses."
+
+14. Use in Commercial Projects
+    If the Software is intended for both personal and commercial use, clearly define whether and how the Software can be used in commercial environments.
+    You can include an additional clause for commercial licenses if you want to restrict the use of the Software to non-commercial purposes unless a separate agreement is made.
+    Example:
+
+"The Software may be used for commercial purposes only under a separate commercial license agreement. By default, this license applies to personal or internal non-commercial use."
+
+15. Beta Testing and Early Access
+    If your Software is in beta or early access, you can include a clause that limits the user’s rights and clarifies that the Software may have bugs or incomplete features.
+    You can also include a clause that requests feedback from the user.
+    Example:
+
+"The Software is provided as a beta release and may contain bugs or incomplete features. The Licensee agrees to provide feedback to the Licensor regarding their use of the Software."
+
+16. Software Maintenance and Support
+    Define the terms under which you will provide support or maintenance, if any.
+    You can specify whether support is available on a paid basis, if it’s limited, or if the software is provided “as-is” with no obligation for maintenance.
+    Example:
+
+"The Licensor provides support for the Software at their discretion. Support may be limited and available on a paid basis."
+
+17. Confidentiality
+    If the Software contains proprietary information, you may want to include a confidentiality clause to prevent the Licensee from disclosing the details of the Software.
+    Example:
+
+"The Licensee agrees not to disclose any confidential or proprietary information related to the Software, including its features, code, and design, to third parties."
+
+18. Data Collection and Usage
+    If your Software collects data from the user, you should clarify what data is collected, how it will be used, and if it will be shared with third parties.
+    If necessary, link to a full Privacy Policy.
+    Example:
+
+"The Software may collect usage data and personal information as described in the Privacy Policy. By using the Software, the Licensee consents to the collection and processing of this data."
+
+19. Indemnification
+    This clause protects you from liability in case the Software causes damage or harm to the Licensee or any third party.
+    Example:
+
+"The Licensee agrees to indemnify and hold harmless the Licensor from any and all claims, damages, liabilities, and expenses arising out of their use of the Software."
+
+20. Force Majeure
+    A force majeure clause releases you from liability if an unforeseen event prevents you from fulfilling your obligations under the agreement (e.g., natural disasters, pandemics, etc.).
+    Example:
+
+"The Licensor shall not be held liable for any failure to perform under this Agreement caused by events beyond their reasonable control, including but not limited to acts of God, natural disasters, or technical failures."
