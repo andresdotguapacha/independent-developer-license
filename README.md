@@ -2,14 +2,14 @@
 
 ## Overview
 
-This repository contains the official **End-User License Agreement (EULA)** for **e=commerce=module**. It defines the terms under which users may access, use, and distribute the software.
+This repository contains the official **End-User License Agreement (EULA)** for **e-commerce-module**. It defines the terms under which users may access, use, and distribute the software.
 
 ## License Information
 
 - **License Type:** Andres Guapacha, EULA, Custom License
 - **Last Updated:** 2025-02-02
-- **Applicable To:** e=commerce=module
-- **License URL:** [Link to the full license file]
+- **Applicable To:** e-commerce-module
+- **License URL:** [[EULA for Independent Developer]](https://github.com/andresdotguapacha/independent-developer-license/blob/master/LICENSE)
 
 ## Key Terms
 
